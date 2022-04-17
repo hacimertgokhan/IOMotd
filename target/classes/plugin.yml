@@ -1,0 +1,12 @@
+name: IOMotd
+version: 'reWork'
+main: eu.mixeration.iomotd.iomotd.IOMotd
+api-version: 1.18
+prefix: IOMotd
+load: STARTUP
+authors: [Mixeration]
+
+commands:
+    IOMotd:
+        usage: /IOMotd
+        permission: iomotd.adminisator

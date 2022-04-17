@@ -1,0 +1,5 @@
+eu\mixeration\iomotd\iomotd\modules\message.class
+eu\mixeration\iomotd\iomotd\commands\adminisator.class
+eu\mixeration\iomotd\iomotd\modules\file.class
+eu\mixeration\iomotd\iomotd\events\serverListener.class
+eu\mixeration\iomotd\iomotd\IOMotd.class

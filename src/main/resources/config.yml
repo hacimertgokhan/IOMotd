@@ -1,0 +1,11 @@
+messages:
+    no-permission: "&9[IO&bMotd&9] &7You dont have a enough permission."
+    plugin-reloaded: "&9[IO&bMotd&9] &7Plugin reloaded."
+    only-in-game: "&9[IO&bMotd&9] &7You cannot use that command from console !"
+
+io-motd:
+    maximumPlayer:
+        boolean: true
+        amount: 100
+    server-motd:
+        - "                  &9&lIOMotd          &b<online>&f/&9<max> &7Version &f<version>"
